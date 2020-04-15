@@ -23,6 +23,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/programmers-practice/template/index.js" timestamp="1586951259559">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/index.ts" timestamp="1586952229887">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/package.json" timestamp="1586952417182">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth-credentials.dto.ts" timestamp="1586618891614">
+        <mark key="[" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/test/index.spec.ts" timestamp="1586952618402" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1586867448996">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,74 +49,19 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.module.ts" timestamp="1586163567741">
-        <mark key="[" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-practice/template/index.js" timestamp="1586951259559">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/config/typeorm.config.ts" timestamp="1586164082589">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.module.ts" timestamp="1586184984167">
-        <mark key="[" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.entity.ts" timestamp="1586183791634">
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/index.test.ts" timestamp="1586952611160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.service.ts" timestamp="1586246261791">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.controller.ts" timestamp="1586251127910">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/test/app.e2e-spec.ts" timestamp="1586952660659" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/package.json" timestamp="1586952471014" />
       <file name="/" timestamp="1586951925910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/task.repository.ts" timestamp="1586215946852">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.repository.ts" timestamp="1586246342593">
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="64" />
-        <mark key="." line="6" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.controller.ts" timestamp="1586181241985">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.service.ts" timestamp="1586232355246">
-        <mark key="'" line="13" column="28" />
-        <mark key="[" line="43" column="51" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1586185521810">
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/.eslintrc.js" timestamp="1586952308057" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/.prettierrc" timestamp="1586952286694" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/__tests__/index.spec.ts" timestamp="1586952504160" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1586952323279">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/task.entity.ts" timestamp="1586163913268">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth-credentials.dto.ts" timestamp="1586618891614">
-        <mark key="[" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/README.md" timestamp="1586867720013">
         <mark key="[" line="0" column="0" />
@@ -106,13 +69,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/main.ts" timestamp="1586185377910">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1586250433873">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/tsconfig.json" timestamp="1586952381113" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1586953106494">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -128,14 +89,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="4">
+        <text>xpect(1).toBe(1)</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>타겟넘버</text>
+        <text>sum</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cn0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cn0pOw==</text>
@@ -144,22 +108,22 @@
         <text encoding="base64">Cn0pOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcWwoMikK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihnb29kcywgYm94cykK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcWwoMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBib3hzID0gWzUsIDYsIDRdCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihnb29kcywgYm94cykK</text>
       </register>
       <register name="-" type="4">
-        <text>타겟넘버</text>
+        <text>sum</text>
       </register>
     </registers>
   </component>
