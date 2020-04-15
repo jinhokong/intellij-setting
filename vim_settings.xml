@@ -28,6 +28,9 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1586955622928">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/index.ts" timestamp="1586952229887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,13 +40,10 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth-credentials.dto.ts" timestamp="1586618891614">
-        <mark key="[" line="13" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.ts" timestamp="1586955127885">
+        <mark key="[" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/test/index.spec.ts" timestamp="1586952618402" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1586867448996">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-practice/template/index.test.js" timestamp="1586951309991">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="10" />
@@ -70,10 +70,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/tsconfig.json" timestamp="1586952381113" />
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1586953106494">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1586955557443">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -90,40 +91,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="4">
-        <text>xpect(1).toBe(1)</text>
+        <text encoding="base64">aXQoInRlc3QxIiwoKT0+ewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPTEwCiAgICAgICAgY29uc3QgcmVkID0xCiAgICAgICAgLy8gV0hFTgogICAgICAgIGNvbnN0IHJlc3VsdCA9c29sdXRpb24oYnJvd24scmVkKQogICAgICAgIC8vIFRIRU4KICAgICAgICBleHBlY3QocmVzdWx0KS50b0VxdWFsKFs0LDNdKTsKICAgIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sum</text>
+        <text encoding="base64">aXQoInRlc3QxIiwoKT0+ewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPTEwCiAgICAgICAgY29uc3QgcmVkID0xCiAgICAgICAgLy8gV0hFTgogICAgICAgIGNvbnN0IHJlc3VsdCA9c29sdXRpb24oYnJvd24scmVkKQogICAgICAgIC8vIFRIRU4KICAgICAgICBleHBlY3QocmVzdWx0KS50b0VxdWFsKFs0LDNdKTsKICAgIH0p</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>// GIVEN
+    const brown =10
+    const red =1
+    // WHEN
+    const result =solution(brown,red)
+    // THEN
+    expect(result).toEqual([]);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cn0pOw==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cn0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cn0pOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cn0pOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cn0pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcWwoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihnb29kcywgYm94cykK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>test</text>
       </register>
     </registers>
   </component>
