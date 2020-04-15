@@ -47,9 +47,6 @@
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.module.ts" timestamp="1586184984167">
         <mark key="[" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/app.module.ts" timestamp="1586162289145">
-        <mark key="[" line="8" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.entity.ts" timestamp="1586183791634">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,6 +60,9 @@
         <mark key="]" line="5" column="12" />
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="/" timestamp="1586951925910">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/task.repository.ts" timestamp="1586215946852">
         <mark key="'" line="36" column="0" />
