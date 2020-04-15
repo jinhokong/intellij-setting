@@ -56,6 +56,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/test/app.e2e-spec.ts" timestamp="1586952660659" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1586961978770">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/package.json" timestamp="1586952471014" />
       <file name="/" timestamp="1586951925910">
         <mark key="[" line="0" column="0" />
@@ -65,12 +70,6 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/__tests__/index.spec.ts" timestamp="1586952504160" />
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1586952323279">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/README.md" timestamp="1586867720013">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/tsconfig.json" timestamp="1586952381113" />
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1586955557443">
@@ -97,21 +96,27 @@
         <text encoding="base64">aXQoInRlc3QxIiwoKT0+ewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPTEwCiAgICAgICAgY29uc3QgcmVkID0xCiAgICAgICAgLy8gV0hFTgogICAgICAgIGNvbnN0IHJlc3VsdCA9c29sdXRpb24oYnJvd24scmVkKQogICAgICAgIC8vIFRIRU4KICAgICAgICBleHBlY3QocmVzdWx0KS50b0VxdWFsKFs0LDNdKTsKICAgIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRvdGFsID0gYnJvd24gKyByZWQKICAgIGxldCBjYW49W10KICAgIGZvcihsZXQgaT0zO2k8dG90YWwvMjtpKyspewogICAgICAgIGlmKHRvdGFsJWk9PT0wKXsKICAgICAgICAgICAgY2FuLnB1c2goW3RvdGFsL2ksaV0pCiAgICAgICAgfQogICAgfQogICAgZm9yKGNvbnN0IFt3LGhdIG9mIGNhbikgewogICAgICAgIGlmIChicm93biA9PT0gMiAqIHcgKyAyICogaCAtIDQgJiYgIHJlZD09PSB0b3RhbCAtYnJvd24pIHsKICAgICAgICAgICAgcmV0dXJuIFt3LCBoXQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlZCA9IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>// GIVEN
     const brown =10
     const red =1
@@ -120,17 +125,11 @@
     // THEN
     expect(result).toEqual([]);</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cn0pOw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cn0pOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
