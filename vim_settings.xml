@@ -4,8 +4,15 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>brown</entry>
+        <entry>red</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vim</entry>
+        <entry>%s/brown/number</entry>
+        <entry>%s/red/k</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -23,11 +30,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/programmers-practice/template/index.js" timestamp="1586951259559">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1586955622928">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,6 +48,13 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1586965052414">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/test/index.spec.ts" timestamp="1586952618402" />
       <file name="$USER_HOME$/IdeaProjects/programmers-practice/template/index.test.js" timestamp="1586951309991">
         <mark key="[" line="8" column="10" />
@@ -56,10 +65,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/test/app.e2e-spec.ts" timestamp="1586952660659" />
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1586961978770">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1586965787819">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/package.json" timestamp="1586952471014" />
       <file name="/" timestamp="1586951925910">
@@ -88,56 +97,63 @@
       <jump line="13" column="28" filename="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.service.ts" />
       <jump line="7" column="53" filename="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/task.repository.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/task.repository.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" />
+      <jump line="26" column="8" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">aXQoInRlc3QxIiwoKT0+ewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPTEwCiAgICAgICAgY29uc3QgcmVkID0xCiAgICAgICAgLy8gV0hFTgogICAgICAgIGNvbnN0IHJlc3VsdCA9c29sdXRpb24oYnJvd24scmVkKQogICAgICAgIC8vIFRIRU4KICAgICAgICBleHBlY3QocmVzdWx0KS50b0VxdWFsKFs0LDNdKTsKICAgIH0p</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRvdGFsID0gYnJvd24gKyByZWQKICAgIGxldCBjYW49W10KICAgIGZvcihsZXQgaT0zO2k8dG90YWwvMjtpKyspewogICAgICAgIGlmKHRvdGFsJWk9PT0wKXsKICAgICAgICAgICAgY2FuLnB1c2goW3RvdGFsL2ksaV0pCiAgICAgICAgfQogICAgfQogICAgZm9yKGNvbnN0IFt3LGhdIG9mIGNhbikgewogICAgICAgIGlmIChicm93biA9PT0gMiAqIHcgKyAyICogaCAtIDQgJiYgIHJlZD09PSB0b3RhbCAtYnJvd24pIHsKICAgICAgICAgICAgcmV0dXJuIFt3LCBoXQogICAgICAgIH0KICAgIH0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlZCA9IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>// GIVEN
-    const brown =10
-    const red =1
-    // WHEN
-    const result =solution(brown,red)
-    // THEN
-    expect(result).toEqual([]);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgxKS50b0JlKDEpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuc3dlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>red</text>
+      </register>
+      <register name="0" type="4">
+        <text>number.length-k</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFuc3dlcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhcnJheQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgcmVtb3ZlPShzOnN0cmluZyxpbmRleDpudW1iZXIpPT5zLnN1YnN0cmluZygwLGluZGV4KStzLnN1YnN0cmluZyhpbmRleCsxLHMubGVuZ3RoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxldCBtYXg9TnVtYmVyKG51bWJlcikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSByZW1vdmUocmVzdWx0LCkgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IHJlc3VsdC5pbmRleE9mKFN0cmluZyhtaW4pKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBtaW49TWF0aC5taW4uYXBwbHkobnVsbCxzcGxpdCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/red/k</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
+      <last-search>red</last-search>
+      <last-pattern>red</last-pattern>
+      <last-replace>k</last-replace>
+      <last-substitute>red</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
