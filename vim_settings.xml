@@ -7,12 +7,14 @@
       <history-search>
         <entry>red</entry>
         <entry>brown</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>vim</entry>
         <entry>%s/brown/number</entry>
         <entry>%s/red/k</entry>
         <entry>%s/brown/nums</entry>
+        <entry>%s/number/s</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -34,6 +36,19 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/index.test.ts" timestamp="1586952611160">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.ts" timestamp="1587131056731">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2564/index.ts" timestamp="1587131652284">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1586955622928">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,6 +63,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2564/index.test.ts" timestamp="1587131148935">
+        <mark key="[" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/hi.ts" timestamp="1587000168322">
         <mark key="[" line="0" column="0" />
@@ -77,8 +95,15 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1586952323279">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.test.ts" timestamp="1586967496076">
-        <mark key="[" line="8" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.test.ts" timestamp="1587130708621">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.test.ts" timestamp="1587130745073">
+        <mark key="[" line="1" column="7" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -103,60 +128,62 @@
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" />
       <jump line="25" column="40" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.test.ts" />
       <jump line="1" column="38" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.ts" />
+      <jump line="5" column="26" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.test.ts" />
+      <jump line="3" column="4" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhudW1zW2ldK251bXNbal0rbnVtc1trXSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>brown:number, red:number</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>brown</text>
+        <text>number</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMCA7IGkgPG51bXMubGVuZ3RoO2krKyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhudW1zW2ldK251bXNbal0rbnVtc1trXSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbnN3ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWQgPTIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pCn0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIC8vYnJvd24gPT09IDIqdy00KzIqaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QocmVzdWx0KS50b0VxdWFsKFs4LDZdKTsK</text>
+        <text encoding="base64">ICAgIC8vdypoPT09IGJyb3duICtyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUSEVOCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFuc3dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPXNvbHV0aW9uKG51bXMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG51bWJlcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXSEVOCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNwbGl0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWQgPTI0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFuc3dlciA9ICIiOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/brown/nums</text>
+        <text>%s/number/s</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>brown</last-search>
-      <last-pattern>brown</last-pattern>
-      <last-replace>nums</last-replace>
-      <last-substitute>brown</last-substitute>
+      <last-search>number</last-search>
+      <last-pattern>number</last-pattern>
+      <last-replace>s</last-replace>
+      <last-substitute>number</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
