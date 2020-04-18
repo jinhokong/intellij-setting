@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1586955622928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587000134015">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587174121996">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.ts" timestamp="1586968326652">
         <mark key="'" line="2" column="38" />
@@ -70,9 +70,6 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/hi.ts" timestamp="1587000168322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/index.ts" timestamp="1586952229887">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/package.json" timestamp="1586952417182">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="4" />
@@ -85,15 +82,18 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1586967355892">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1467/index.test.ts" timestamp="1587174250502">
+        <mark key="[" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1586952323279">
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1587174170759">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2/index.ts" timestamp="1587172618576">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2489/index.ts" timestamp="1587137127854">
         <mark key="[" line="0" column="32" />
@@ -112,6 +112,11 @@
         <mark key="]" line="21" column="18" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.ts" timestamp="1587172625077">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.test.ts" timestamp="1587130745073">
         <mark key="[" line="1" column="7" />
@@ -150,8 +155,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlZCA9IDI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -163,31 +168,31 @@
         <text encoding="base64">Zm9yKGxldCBpID0gMCA7IGkgPG51bXMubGVuZ3RoO2krKyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgc29ydCA9IHdvcmtzLnNvcnQoKGEsIGIpID0+IGIgLSBhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZCA9IDI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAod29ya3MucmVkdWNlKChhY2MsIGN1cikgPT4gYWNjICsgY3VyLCAwKSA8IG4pIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGxldCB0ZW1wID0gc29ydFswXTsKICAgICAgc29ydFswXSA9IHNvcnRbaW5kZXhdOwogICAgICBzb3J0W2luZGV4XSA9IHRlbXA7</text>
+        <text encoding="base64">ICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgYnJvd24gPSA4OwogICAgY29uc3QgcmVkID0gMTsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKGJyb3duLCByZWQpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbMywgM10pOwogIH0pOwogIGl0KCd0ZXN0MycsICgpID0+IHsKICAgIC8vIEdJVkVOCiAgICBjb25zdCBicm93biA9IDI0OwogICAgY29uc3QgcmVkID0gMjQ7CiAgICAvLyBXSEVOCiAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihicm93biwgcmVkKTsKICAgIC8vIFRIRU4KICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzgsIDZdKTsKICB9KQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzb3J0WzBdPHNvcnRbMV0pewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0W2luZGV4XT1zb3J0W2luZGV4XS0xOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBsZXQgdG90YWwgPSBicm93biArIHJlZDsKICBsZXQgY2FuID0gW107CiAgZm9yIChsZXQgaSA9IDM7IGkgPCB0b3RhbCAvIDI7IGkrKykgewogICAgaWYgKHRvdGFsICUgaSA9PT0gMCkgewogICAgICBjYW4ucHVzaChbdG90YWwgLyBpLCBpXSk7CiAgICB9CiAgfQogIGZvciAoY29uc3QgW3csIGhdIG9mIGNhbikgewogICAgaWYgKGJyb3duID09PSAyICogdyArIDIgKiBoIC0gNCAmJiByZWQgPT09IHRvdGFsIC0gYnJvd24pIHsKICAgICAgcmV0dXJuIFt3LCBoXTsKICAgIH0KICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleD0gc29ydC5maW5kSW5kZXgoKGEpPT5hPT09bWF4KQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtYXg9TWF0aC5tYXguYXBwbHkobnVsbCxzb3J0KQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBsZXQgdG90YWwgPSBicm93biArIHJlZDsKICBsZXQgY2FuID0gW107CiAgZm9yIChsZXQgaSA9IDM7IGkgPCB0b3RhbCAvIDI7IGkrKykgewogICAgaWYgKHRvdGFsICUgaSA9PT0gMCkgewogICAgICBjYW4ucHVzaChbdG90YWwgLyBpLCBpXSk7CiAgICB9CiAgfQogIGZvciAoY29uc3QgW3csIGhdIG9mIGNhbikgewogICAgaWYgKGJyb3duID09PSAyICogdyArIDIgKiBoIC0gNCAmJiByZWQgPT09IHRvdGFsIC0gYnJvd24pIHsKICAgICAgcmV0dXJuIFt3LCBoXTsKICAgIH0KICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBzb3J0PXdvcmtzLnNvcnQoKGEsYik9PmItYSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/number/s</text>
