@@ -36,50 +36,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.ts" timestamp="1587131056731">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2564/index.ts" timestamp="1587132209853">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587184059233">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.ts" timestamp="1587182361154">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2564/index.test.ts" timestamp="1587131148935">
-        <mark key="[" line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/hi.ts" timestamp="1587000168322">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2/index.test.ts" timestamp="1587184950306">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/index.ts" timestamp="1587483816407">
         <mark key="[" line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.ts" timestamp="1586957112229">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1467/index.test.ts" timestamp="1587174250502">
-        <mark key="[" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1587183778106">
         <mark key="[" line="2" column="22" />
@@ -95,10 +59,10 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.test.ts" timestamp="1587189146252">
         <mark key="[" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2489/index.ts" timestamp="1587137127854">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/mup-backend/src/app.module.ts" timestamp="1587485755215">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1467/index.ts" timestamp="1587137091142">
         <mark key="[" line="12" column="14" />
@@ -106,28 +70,42 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.test.ts" timestamp="1587130708621">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="5" column="27" />
-        <mark key="." line="21" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2489/index.test.ts" timestamp="1587133422076">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587184059233">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="37" />
+        <mark key="^" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.ts" timestamp="1587182361154">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2/index.test.ts" timestamp="1587184950306">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1467/index.test.ts" timestamp="1587174250502">
+        <mark key="[" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mup-backend/.gitignore" timestamp="1587485601194">
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2489/index.ts" timestamp="1587137127854">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/docker-compose.yml" timestamp="1587485615761" />
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.ts" timestamp="1587189514497">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
         <mark key="^" line="29" column="23" />
         <mark key="." line="16" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.test.ts" timestamp="1587130745073">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2489/index.test.ts" timestamp="1587133422076">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -151,11 +129,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVjaXBlIH0gZnJvbSAiLi9yZWNpcGVzL21vZGVsL3JlY2lwZS5lbnRpdHkiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>now</text>
@@ -164,46 +142,31 @@
         <text encoding="base64">Zm9yKGxldCBpID0gMCA7IGkgPG51bXMubGVuZ3RoO2krKyk=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVjaXBlIH0gZnJvbSAiLi9yZWNpcGVzL21vZGVsL3JlY2lwZS5lbnRpdHkiOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgdHlwZTogInBvc3RncmVzIiwKICAgICAgaG9zdDogcHJvY2Vzcy5lbnYuREJfSE9TVCwKICAgICAgcG9ydDogTnVtYmVyKHByb2Nlc3MuZW52LkRCX1BPUlQhKSwKICAgICAgdXNlcm5hbWU6IHByb2Nlc3MuZW52LkRCX1VTRVJOQU1FISwKICAgICAgcGFzc3dvcmQ6IHByb2Nlc3MuZW52LkRCX1BBU1NXT1JEISwKICAgICAgZGF0YWJhc2U6IHByb2Nlc3MuZW52LkRCX0RBVEFCQVNFISwKICAgICAgZW50aXRpZXM6IFtSZWNpcGVdLAogICAgICBzeW5jaHJvbml6ZTogdHJ1ZSw=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhjb3VudCk7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGorKzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgLy8gbGV0IGNvdW50ID0gMDsKICAvLyB3aGlsZSAoY291bnQgPCAxMCkgewogIC8vICAgbGV0IG1heCA9IDA7CiAgLy8gICBsZXQgbWF4SW5kZXggPSAwOwogIC8vICAgZm9yIChsZXQgaSA9IDE7IGkgPCBudW1iZXJzLmxlbmd0aDsgaSsrKSB7CiAgLy8gICAgIGlmIChNYXRoLmFicyhudW1iZXJzW2kgLSAxXSAtIG51bWJlcnNbaV0pID4gbWF4KSB7CiAgLy8gICAgICAgbWF4SW5kZXggPSBpOwogIC8vICAgICAgIG1heCA9IE1hdGguYWJzKG51bWJlcnNbaSAtIDFdIC0gbnVtYmVyc1tpXSk7CiAgLy8gICAgIH0KICAvLyAgIH0KICAvLyAgIFtudW1iZXJzW21heEluZGV4IC0gMV0sIG51bWJlcnNbbWF4SW5kZXhdXSA9IFsKICAvLyAgICAgbnVtYmVyc1ttYXhJbmRleF0sCiAgLy8gICAgIG51bWJlcnNbbWF4SW5kZXggLSAxXSwKICAvLyAgIF07CiAgLy8gICBpZiAobWF4IDw9IGspIHsKICAvLyAgICAgYnJlYWs7CiAgLy8gICB9CiAgLy8gICBjb25zb2xlLmxvZyhudW1iZXJzKTsKICAvLyAgIGNvbnNvbGUubG9nKG1heCwgbWF4SW5kZXgpOwogIC8vICAgY291bnQrKzsKICAvLyB9CiAgLy8gcmV0dXJuIGNvdW50Ow==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY291bnQgPSBjb3VudCArIDEK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYXJyW2ldIDw9IGspIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChhcnJbaV0gPD0gaykgewogICAgICAgIGNvdW50ID0gY291bnQgKyAxICAgIAogICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubAo=</text>
-      </register>
       <register name="9" type="4">
-        <text>og(
-      'move: ',
-      m,
-      ',',
-      'head: ',
-      head,
-      ',',
-      'r: ',
-      r,
-      ',',
-      'c: ',
-      c,
-      ',',
-      'count: ',
-      count,
-    );</text>
+        <text encoding="base64">IGlmIChhcnJbaV0gPD0gaykgewogICAgICAgIGNvdW50ID0gY291bnQgKyAxICAgIAogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/now/[r,c]</text>
