@@ -49,9 +49,6 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1586955622928">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587184059233">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="38" />
@@ -71,6 +68,9 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mup-backend/src/index.ts" timestamp="1587483816407">
+        <mark key="[" line="5" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.ts" timestamp="1586957112229">
         <mark key="[" line="8" column="16" />
@@ -128,12 +128,6 @@
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1586955557443">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="4" />
       </file>
     </filemarks>
     <jumps>
