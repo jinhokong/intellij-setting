@@ -36,15 +36,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2564/index.ts" timestamp="1587132209853">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/index.ts" timestamp="1587483816407">
         <mark key="[" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/app.module.ts" timestamp="1587485783217" />
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1587183778106">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="5" />
