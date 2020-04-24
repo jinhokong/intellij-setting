@@ -36,7 +36,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587654182239">
+      <file name="/Dummy.txt" timestamp="1587720240059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/recipes/recipes.repository.ts" timestamp="1587607970679">
@@ -49,9 +49,6 @@
         <mark key="]" line="5" column="38" />
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12977/index.ts" timestamp="1587182361154">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/recipes/recipes.resolver.ts" timestamp="1587564908161">
         <mark key="[" line="4" column="25" />
@@ -66,19 +63,20 @@
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/index.ts" timestamp="1587483816407">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.entity.ts" timestamp="1587652978496">
-        <mark key="[" line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.test.ts" timestamp="1587183778106">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.entity.ts" timestamp="1587720567466">
+        <mark key="[" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2/index.ts" timestamp="1587186595061">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="45" column="18" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.service.ts" timestamp="1587720743106">
+        <mark key="[" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.controller.ts" timestamp="1587720849513">
+        <mark key="[" line="8" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/.gitignore" timestamp="1587485601194">
         <mark key="[" line="2" column="4" />
