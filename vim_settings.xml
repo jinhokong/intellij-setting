@@ -45,7 +45,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588000832065">
-        <mark key="[" line="15" column="32" />
+        <mark key="[" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587184059233">
         <mark key="[" line="5" column="38" />
@@ -103,8 +103,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/javascript/README.md" timestamp="1588001164442">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/javascript/README.md" timestamp="1588001998717">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.ts" timestamp="1587189514497">
         <mark key="[" line="16" column="20" />
@@ -134,8 +136,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PiBTdGFjayBGcmFtZQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -147,15 +149,18 @@
         <text>bcrypt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYmNyeXB0IGZyb20gJ2JjcnlwdCc7Cg==</text>
+        <text encoding="base64">PiBTdGFjayBGcmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYmNyeXB0IGZyb20gJ2JjcnlwdCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4aXN0cyA9IHRoaXMuZmluZE9uZSgoe3VzZXJuYW1lfSkpOwo=</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGV4aXN0cyA9IHRoaXMuZmluZE9uZSgoe3VzZXJuYW1lfSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text>[
   [
     &quot;Error: &quot;,
@@ -171,20 +176,17 @@
   ],
 ];</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybiB0YXNrOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRhc2suc2F2ZSgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhc2suc3RhdHVzID0gVGFza1N0YXR1cy5PUEVOOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRhc2suc2F2ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/now/[r,c]</text>
