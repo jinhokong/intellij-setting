@@ -103,10 +103,10 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.test.ts" timestamp="1587189146252">
         <mark key="[" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588147054023">
-        <mark key="[" line="130" column="3" />
-        <mark key="]" line="129" column="51" />
-        <mark key="." line="129" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588147254027">
+        <mark key="[" line="107" column="6" />
+        <mark key="]" line="107" column="6" />
+        <mark key="." line="107" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/app.module.ts" timestamp="1587485755215">
         <mark key="[" line="8" column="0" />
@@ -147,10 +147,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>oolean</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="-" type="4">
-        <text>oolean</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
         <text>now</text>
