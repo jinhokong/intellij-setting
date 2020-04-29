@@ -103,7 +103,11 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.test.ts" timestamp="1587189146252">
         <mark key="[" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588144193374" />
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588147054023">
+        <mark key="[" line="130" column="3" />
+        <mark key="]" line="129" column="51" />
+        <mark key="." line="129" column="51" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/app.module.ts" timestamp="1587485755215">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -142,11 +146,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RVJST1IgVVNFUjogSzYwMDEyMTU1CkVSUk9SIFJFQVNPTjogIlRoZXJlIGlzIGFscmVhZHkgYSB1c2VyIHJlZ2lzdGVyZWQgd2l0aCB0aGlzIGVtYWlsIG9yIHVzZXJuYW1lLiIKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0tLS0tLS0gU1VDQ0VTUyBVU0VSIDM1NjogSzYwMDE5NTU1IENMQVNTX0pPSU46IHRydWUKLS0tLS0tLSBTVUNDRVNTIFVTRVIgMzU3OiBLNjAwMTcxNDMgQ0xBU1NfSk9JTjogdHJ1ZQotLS0tLS0tIFNVQ0NFU1MgVVNFUiAzNTg6IEs2MDAxNjA4MSBDTEFTU19KT0lOOiB0cnVlCi0tLS0tLS0gU1VDQ0VTUyBVU0VSIDM1OTogSzYwMDE5NDgzIENMQVNTX0pPSU46IHRydWUKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkVSUk9SIFVTRVI6IEs2MDAxOTQxOApFUlJPUiBSRUFTT046ICJUaGVyZSBpcyBhbHJlYWR5IGEgdXNlciByZWdpc3RlcmVkIHdpdGggdGhpcyBlbWFpbCBvciB1c2VybmFtZS4iCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLS0tLS0tIFNVQ0NFU1MgVVNFUiAzNjA6IEs2MDAxNDg4NCBDTEFTU19KT0lOOiB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>oolean</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>oolean</text>
       </register>
       <register name="/" type="4">
         <text>now</text>
