@@ -9,6 +9,7 @@
         <entry>brown</entry>
         <entry>number</entry>
         <entry>now</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>vim</entry>
@@ -18,6 +19,7 @@
         <entry>%s/number/s</entry>
         <entry>$s/now/[r,c]</entry>
         <entry>%s/now/[r,c]</entry>
+        <entry>%s/class/export class</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -46,12 +48,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588000832065">
         <mark key="[" line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem1/index.ts" timestamp="1587184059233">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="37" />
-        <mark key="^" line="5" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/recipes/recipes.resolver.ts" timestamp="1587564908161">
         <mark key="[" line="4" column="25" />
@@ -89,6 +85,11 @@
       <file name="$USER_HOME$/IdeaProjects/mup-backend/.gitignore" timestamp="1587485601194">
         <mark key="[" line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/__tests__/index.test.ts" timestamp="1588235063184">
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/recipes/recipes.service.ts" timestamp="1587564914822">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
@@ -103,8 +104,12 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem3/index.test.ts" timestamp="1587189146252">
         <mark key="[" line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588233804563">
-        <mark key="'" line="128" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588235038043">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mup-backend/src/app.module.ts" timestamp="1587485755215">
         <mark key="[" line="8" column="0" />
@@ -141,6 +146,8 @@
       <jump line="3" column="4" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem952/index.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem2/index.ts" />
       <jump line="128" column="54" filename="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" />
+      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -152,7 +159,7 @@
         <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text>now</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text>bcrypt</text>
@@ -185,16 +192,16 @@
         <text encoding="base64">PiBTdGFjayBGcmFtZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/now/[r,c]</text>
+        <text>%s/class/export class</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>now</last-search>
-      <last-pattern>now</last-pattern>
-      <last-replace>[r,c]</last-replace>
-      <last-substitute>now</last-substitute>
+      <last-search>class</last-search>
+      <last-pattern>class</last-pattern>
+      <last-replace>export class</last-replace>
+      <last-substitute>class</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
