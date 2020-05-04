@@ -54,6 +54,20 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588000832065">
+        <mark key="[" line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds3/index.test.ts" timestamp="1588408127669">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.ts" timestamp="1588400773354">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.ts" timestamp="1588305915800">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="0" />
@@ -70,44 +84,21 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem42860/index.test.ts" timestamp="1588343216000">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.test.ts" timestamp="1588408122949">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12980/index.ts" timestamp="1588401485163">
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588000832065">
-        <mark key="[" line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds3/index.test.ts" timestamp="1588408127669">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.ts" timestamp="1588400773354">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="1" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.test.ts" timestamp="1588400460999">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/__tests__/index.test.ts" timestamp="1588236831742">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="0" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/__tests__/index.test.ts" timestamp="1588606044008">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="45" column="0" />
         <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="12" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem42860/index.test.ts" timestamp="1588343216000">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588238806424">
         <mark key="'" line="33" column="0" />
@@ -118,6 +109,15 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/javascript/README.md" timestamp="1588001998717">
         <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.test.ts" timestamp="1588408122949">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12980/index.ts" timestamp="1588401485163">
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -155,7 +155,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8g7Jqp6rCQ7ZWcIOy/oO2CpOuhnOunjCDqtazshLHrkJjslrQg7J6I7Jy866mwIOq4uOydtOuKlCAxIOydtOyDgSAxMDAwIOydtO2VmOydtOuLpC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KGEpID0+IGE=</text>
@@ -167,9 +167,18 @@
         <text>upper[index</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAKICAgIGNvbnNvbGUubG9nKAogICAgICB0aXRhbmljLmNhbGN1bGF0ZU1vdmllRmVlKG5ldyBTY3JlZW5pbmcodGl0YW5pYywgMiwgbmV3IERhdGUoKSkpCiAgICApOwogICAgZXhwZWN0KHRydWUpLnRvQmUodHJ1ZSk7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8g7Jqp6rCQ7ZWcIOy/oO2CpOuhnOunjCDqtazshLHrkJjslrQg7J6I7Jy866mwIOq4uOydtOuKlCAxIOydtOyDgSAxMDAwIOydtO2VmOydtOuLpC4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>는 타자 연습을 하고 있다. 용감한 쿠키는 타자 연습이 익숙하지 않은 나머지, 종종 어떤 글자를 길게 눌러서 오타를 내는 습관이 있다. 가령 ‘cookie’를 보고 ‘cccookie’와 같이 잘못 입력할 수 있다. 하지만 ‘cokie’ 와 같이, 글자를 빼먹는 오타를 내지는 않는다.
 //
 //     명랑한 쿠키는 용감한 쿠키의 타자 연습을 도와주고 있다. 기다리는 동안 지루한 나머지, 용감한 쿠키가 어떤 단어 s1을 연습하면서 단어 s2를 입력할 가능성이 있을지 알아보려고 한다.
@@ -178,13 +187,13 @@
 //     제한 사항
 // s1, s2 모두 영어 소문자</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">L+uTpOydtCDrhpPsnbgg7Iic7ISc64qUIHMxIOyZgCDri6Trpbwg7IiYIOyeiOuLpC4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8g66y47KCcIOyEpOuqhQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>/ 닥터 와사비 쿠키는 숫자를 모으는 취미가 있다. 바구니에 한가득 숫자들을 싣고 싱글벙글하며 집에 가던 닥터 와사비 쿠키는, 실수로 발을 헛디뎌 넘어져버리고 말았다! 쏟아진 숫자들을 다시 주워담아 보았지만, 개수를 세어 보니 딱 하나가 모자라다는 것을 알게 되었다. 다행히도 닥터 와사비 쿠키의 바구니에는 원래 있던 숫자들의 목록이 적혀 있다.
 //
 //     닥터 와사비 쿠키를 도와, 닥터 와사비 쿠키가 잃어버린 숫자를 찾아주자!
@@ -195,32 +204,8 @@
 //     각각의 숫자는 0 이상 230 이하의 정수이며, 각각의 숫자는 고유하다(즉, 중복되는 숫자는 없다).
 // s2 에서 각 숫자</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpbmRleCA9IDE7IGluZGV4IDwgZmlyZWNyYWNrZXIubGVuZ3RoOyBpbmRleCsrKSB7CiAgICBjb25zdCBmID0gZmlyZWNyYWNrZXJbaW5kZXhdOwogICAgaWYgKGYgPT09IDApIHsKICAgICAgY29udGludWU7CiAgICB9CiAgICBjb25zdCBzaXplID0gTWF0aC5taW4oZiwgaW5kZXgpOwogICAgY29uc3QgbmV3QXJyYXkgPSBuZXcgQXJyYXkoc2l6ZSkuZmlsbChmYWxzZSk7CiAgICBhbnN3ZXIgPSBbCiAgICAgIC4uLmFuc3dlci5zbGljZSgwLCBpbmRleCAtIHNpemUpLAogICAgICAuLi5uZXdBcnJheSwKICAgICAgLi4uYW5zd2VyLnNsaWNlKGluZGV4IC0gMSwgYW5zd2VyLmxlbmd0aCAtIDEpLAogICAgXTsKICB9CgogIHJldHVybiBhbnN3ZXIuZmlsdGVyKChhKSA9PiBhKS5sZW5ndGg7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IOyeiOycvOupsCDquLjsnbTripQgMSDsnbTsg4EgMTAwMCDsnbTtlZjsnbTri6QuCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>// 용감한 쿠키는 타자 연습을 하고 있다. 용감한 쿠키는 타자 연습이 익숙하지 않은 나머지, 종종 어떤 글자를 길게 눌러서 오타를 내는 습관이 있다. 가령 ‘cookie’를 보고 ‘cccookie’와 같이 잘못 입력할 수 있다. 하지만 ‘cokie’ 와 같이, 글자를 빼먹는 오타를 내지는 않는다.
-//
-//     명랑한 쿠키는 용감한 쿠키의 타자 연습을 도와주고 있다. 기다리는 동안 지루한 나머지, 용감한 쿠키가 어떤 단어 s1을 연습하면서 단어 s2를 입력할 가능성이 있을지 알아보려고 한다.
-//     입력으로 문자열 s1과 문자열 s2가 주어질 때, 용감한 쿠키가 s2를 입력할 가능성을 true 및 false로 반환하는 함수 solution을 작성하라.
-//
-//     제한 사항
-// s1, s2 모두 영어 소문자로만 구성되어</text>
-      </register>
       <register name="9" type="2">
-        <text>// 문제 설명
-// 닥터 와사비 쿠키는 숫자를 모으는 취미가 있다. 바구니에 한가득 숫자들을 싣고 싱글벙글하며 집에 가던 닥터 와사비 쿠키는, 실수로 발을 헛디뎌 넘어져버리고 말았다! 쏟아진 숫자들을 다시 주워담아 보았지만, 개수를 세어 보니 딱 하나가 모자라다는 것을 알게 되었다. 다행히도 닥터 와사비 쿠키의 바구니에는 원래 있던 숫자들의 목록이 적혀 있다.
-//
-//     닥터 와사비 쿠키를 도와, 닥터 와사비 쿠키가 잃어버린 숫자를 찾아주자!
-// 쏟기 전의 숫자 배열 s1 과 주워담은 후의 숫자 배열 s2 가 주어졌을 때, 사라진 숫자를 반환하는 함수 solution을 작성하라.
-//
-//     제한 사항
-// s1 의 길이는 1 이상 1,000 이하이다.
-//     각각의 숫자는 0 이상 230 이하의 정수이며, 각각의 숫자는 고유하다(즉, 중복되는 숫자는 없다).
-// s2 에서 각 숫자들이 놓인 순서는 s1 와 다를 수 있다.</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpbmRleCA9IDE7IGluZGV4IDwgZmlyZWNyYWNrZXIubGVuZ3RoOyBpbmRleCsrKSB7CiAgICBjb25zdCBmID0gZmlyZWNyYWNrZXJbaW5kZXhdOwogICAgaWYgKGYgPT09IDApIHsKICAgICAgY29udGludWU7CiAgICB9CiAgICBjb25zdCBzaXplID0gTWF0aC5taW4oZiwgaW5kZXgpOwogICAgY29uc3QgbmV3QXJyYXkgPSBuZXcgQXJyYXkoc2l6ZSkuZmlsbChmYWxzZSk7CiAgICBhbnN3ZXIgPSBbCiAgICAgIC4uLmFuc3dlci5zbGljZSgwLCBpbmRleCAtIHNpemUpLAogICAgICAuLi5uZXdBcnJheSwKICAgICAgLi4uYW5zd2VyLnNsaWNlKGluZGV4IC0gMSwgYW5zd2VyLmxlbmd0aCAtIDEpLAogICAgXTsKICB9CgogIHJldHVybiBhbnN3ZXIuZmlsdGVyKChhKSA9PiBhKS5sZW5ndGg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
