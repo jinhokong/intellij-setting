@@ -57,6 +57,9 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588780337729">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1588757291717">
         <mark key="[" line="18" column="6" />
       </file>
@@ -71,12 +74,7 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.ts" timestamp="1588305915800">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/OOP/README.md" timestamp="1588086140719">
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/OOP/README.md" timestamp="1588780207258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -106,12 +104,11 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter2.ts" timestamp="1588238806424">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="39" />
-        <mark key="^" line="52" column="19" />
-        <mark key="." line="53" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1588780600504">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Docker/README.md" timestamp="1588779478272">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.test.ts" timestamp="1588408122949">
         <mark key="[" line="12" column="0" />
@@ -125,10 +122,6 @@
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.ts" timestamp="1588407523793">
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1588305883584">
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
