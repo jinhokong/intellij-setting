@@ -83,11 +83,11 @@
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588780337729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1588912898838">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1588945833714">
+        <mark key="[" line="40" column="65" />
+        <mark key="]" line="39" column="87" />
         <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="20" />
+        <mark key="." line="39" column="87" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds3/index.test.ts" timestamp="1588408127669">
         <mark key="[" line="30" column="0" />
@@ -100,8 +100,8 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Javascript/README.md" timestamp="1588783536731">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Javascript/README.md" timestamp="1588996749094">
+        <mark key="[" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.test.ts" timestamp="1588400460999">
         <mark key="[" line="12" column="15" />
@@ -146,11 +146,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>을 가지고 있습니다. 이러한 문제점들을 해결하기 위해, UI 개발자/프론트엔드개발자는 이미지 스프라이트, 도메인샤딩, CSS/JavaScript 압축, Data URI 등을 업무에 사용하였습니다.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGEpID0+IGE=</text>
+        <text>을 가지고 있습니다. 이러한 문제점들을 해결하기 위해, UI 개발자/프론트엔드개발자는 이미지 스프라이트, 도메인샤딩, CSS/JavaScript 압축, Data URI 등을 업무에 사용하였습니다.</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
