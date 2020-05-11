@@ -54,9 +54,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1588780600504">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/__tests__/index.test.ts" timestamp="1589215076041">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -65,8 +62,10 @@
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Devops/README.md" timestamp="1588818751124">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588780337729">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589218003995">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1589048536898">
         <mark key="[" line="78" column="144" />
@@ -80,6 +79,7 @@
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/hi/index.ts" timestamp="1589215781106">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/recipe/recipe.service.spec.ts" timestamp="1589218366377" />
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589215945595">
         <mark key="[" line="20" column="34" />
         <mark key="]" line="16" column="0" />
@@ -89,9 +89,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1589214718530" />
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Docker/README.md" timestamp="1588779478272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1589215228684" />
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216712653">
         <mark key="[" line="2" column="19" />
@@ -123,11 +120,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaW5jbHVkZTogW10sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>RecipesModule</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -136,31 +133,31 @@
         <text>upper[index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaW5jbHVkZTogW10sCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAgICAgLy8gR0lWRU4KICAgICAgICBjb25zdCBicm93biA9IDg7CiAgICAgICAgY29uc3QgcmVkID0gMTsKICAgICAgICAvLyBXSEVOCiAgICAgICAgY29uc3QgcmVzdWx0ID0gc29sdXRpb24oYnJvd24sIHJlZCk7CiAgICAgICAgLy8gVEhFTgogICAgICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzMsIDNdKTsKICAgIH0pOwogICAgaXQoJ3Rlc3QzJywgKCkgPT4gewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPSAyNDsKICAgICAgICBjb25zdCByZWQgPSAyNDsKICAgICAgICAvLyBXSEVOCiAgICAgICAgY29uc3QgcmVzdWx0ID0gc29sdXRpb24oYnJvd24sIHJlZCk7CiAgICAgICAgLy8gVEhFTgogICAgICAgIGV4cGU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVjaXBlc01vZHVsZSB9IGZyb20gIi4vcmVjaXBlcy9yZWNpcGVzLm1vZHVsZSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9Bcml6b25hTWFrY2hhbmcvbXVwLWJhY2tlbmQuZ2l0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ0eXBlIjogImdpdCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FyaXpvbmFNYWtjaGFuZy9tdXAtYmFja2VuZC9pc3N1ZXMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiYnVncyI6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
