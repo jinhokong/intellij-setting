@@ -42,8 +42,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1589215352579" />
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589215754431">
-        <mark key="[" line="16" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216648567">
+        <mark key="[" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589216502380">
+        <mark key="[" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/package.json" timestamp="1589215038030" />
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/OOP/README.md" timestamp="1589095016441">
@@ -63,9 +66,6 @@
         <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Devops/README.md" timestamp="1588818751124">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/README.md" timestamp="1588755988178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588780337729">
@@ -91,17 +91,16 @@
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/index.ts" timestamp="1589215140674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/__tests__/index.test.ts" timestamp="1588606044008">
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1589214718530" />
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Docker/README.md" timestamp="1588779478272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1589215228684" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216580805">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="41" column="8" filename="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.controller.ts" />
@@ -127,11 +126,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyAiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkIiAmJiBleGl0IDE=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
