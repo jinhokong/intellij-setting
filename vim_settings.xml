@@ -41,38 +41,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12980/index.test.ts" timestamp="1588400884265">
-        <mark key="[" line="1" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1589215352579" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589215754431">
+        <mark key="[" line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds2/index.test.ts" timestamp="1588402672313">
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/OOP/README.md" timestamp="1588780207258">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/package.json" timestamp="1589215038030" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/OOP/README.md" timestamp="1589095016441">
+        <mark key="[" line="6" column="4" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/.gitignore" timestamp="1588756993026">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem42860/index.test.ts" timestamp="1588343216000">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1588780600504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.test.ts" timestamp="1588408122949">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12980/index.ts" timestamp="1588401485163">
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/__tests__/index.test.ts" timestamp="1589215076041">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Devops/README.md" timestamp="1588818751124">
         <mark key="[" line="0" column="0" />
@@ -83,30 +71,25 @@
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/CS/README.md" timestamp="1588780337729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1588945833714">
-        <mark key="[" line="40" column="65" />
-        <mark key="]" line="39" column="87" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="39" column="87" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds3/index.test.ts" timestamp="1588408127669">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.ts" timestamp="1588400773354">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1589048536898">
+        <mark key="[" line="78" column="144" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Javascript/README.md" timestamp="1588996749094">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/problem12939/index.test.ts" timestamp="1588400460999">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/hi/index.ts" timestamp="1589215781106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589215945595">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/index.ts" timestamp="1589215140674">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/__tests__/index.test.ts" timestamp="1588606044008">
         <mark key="[" line="43" column="11" />
@@ -114,13 +97,11 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/tsconfig.json" timestamp="1589214718530" />
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Docker/README.md" timestamp="1588779478272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/ds1/index.ts" timestamp="1588407523793">
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1589215228684" />
     </filemarks>
     <jumps>
       <jump line="41" column="8" filename="$USER_HOME$/Documents/project/udemy-nest-js/src/tasks/tasks.controller.ts" />
@@ -146,11 +127,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>을 가지고 있습니다. 이러한 문제점들을 해결하기 위해, UI 개발자/프론트엔드개발자는 이미지 스프라이트, 도메인샤딩, CSS/JavaScript 압축, Data URI 등을 업무에 사용하였습니다.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>을 가지고 있습니다. 이러한 문제점들을 해결하기 위해, UI 개발자/프론트엔드개발자는 이미지 스프라이트, 도메인샤딩, CSS/JavaScript 압축, Data URI 등을 업무에 사용하였습니다.</text>
+        <text encoding="base64">ZWNobyAiRXJyb3I6IG5vIHRlc3Qgc3BlY2lmaWVkIiAmJiBleGl0IDE=</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -159,45 +140,31 @@
         <text>upper[index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAKICAgIGNvbnNvbGUubG9nKAogICAgICB0aXRhbmljLmNhbGN1bGF0ZU1vdmllRmVlKG5ldyBTY3JlZW5pbmcodGl0YW5pYywgMiwgbmV3IERhdGUoKSkpCiAgICApOwogICAgZXhwZWN0KHRydWUpLnRvQmUodHJ1ZSk7</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAgICAgLy8gR0lWRU4KICAgICAgICBjb25zdCBicm93biA9IDg7CiAgICAgICAgY29uc3QgcmVkID0gMTsKICAgICAgICAvLyBXSEVOCiAgICAgICAgY29uc3QgcmVzdWx0ID0gc29sdXRpb24oYnJvd24sIHJlZCk7CiAgICAgICAgLy8gVEhFTgogICAgICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzMsIDNdKTsKICAgIH0pOwogICAgaXQoJ3Rlc3QzJywgKCkgPT4gewogICAgICAgIC8vIEdJVkVOCiAgICAgICAgY29uc3QgYnJvd24gPSAyNDsKICAgICAgICBjb25zdCByZWQgPSAyNDsKICAgICAgICAvLyBXSEVOCiAgICAgICAgY29uc3QgcmVzdWx0ID0gc29sdXRpb24oYnJvd24sIHJlZCk7CiAgICAgICAgLy8gVEhFTgogICAgICAgIGV4cGU=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8g7Jqp6rCQ7ZWcIOy/oO2CpOuhnOunjCDqtazshLHrkJjslrQg7J6I7Jy866mwIOq4uOydtOuKlCAxIOydtOyDgSAxMDAwIOydtO2VmOydtOuLpC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>는 타자 연습을 하고 있다. 용감한 쿠키는 타자 연습이 익숙하지 않은 나머지, 종종 어떤 글자를 길게 눌러서 오타를 내는 습관이 있다. 가령 ‘cookie’를 보고 ‘cccookie’와 같이 잘못 입력할 수 있다. 하지만 ‘cokie’ 와 같이, 글자를 빼먹는 오타를 내지는 않는다.
-//
-//     명랑한 쿠키는 용감한 쿠키의 타자 연습을 도와주고 있다. 기다리는 동안 지루한 나머지, 용감한 쿠키가 어떤 단어 s1을 연습하면서 단어 s2를 입력할 가능성이 있을지 알아보려고 한다.
-//     입력으로 문자열 s1과 문자열 s2가 주어질 때, 용감한 쿠키가 s2를 입력할 가능성을 true 및 false로 반환하는 함수 solution을 작성하라.
-//
-//     제한 사항
-// s1, s2 모두 영어 소문자</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L+uTpOydtCDrhpPsnbgg7Iic7ISc64qUIHMxIOyZgCDri6Trpbwg7IiYIOyeiOuLpC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8g66y47KCcIOyEpOuqhQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/ 닥터 와사비 쿠키는 숫자를 모으는 취미가 있다. 바구니에 한가득 숫자들을 싣고 싱글벙글하며 집에 가던 닥터 와사비 쿠키는, 실수로 발을 헛디뎌 넘어져버리고 말았다! 쏟아진 숫자들을 다시 주워담아 보았지만, 개수를 세어 보니 딱 하나가 모자라다는 것을 알게 되었다. 다행히도 닥터 와사비 쿠키의 바구니에는 원래 있던 숫자들의 목록이 적혀 있다.
-//
-//     닥터 와사비 쿠키를 도와, 닥터 와사비 쿠키가 잃어버린 숫자를 찾아주자!
-// 쏟기 전의 숫자 배열 s1 과 주워담은 후의 숫자 배열 s2 가 주어졌을 때, 사라진 숫자를 반환하는 함수 solution을 작성하라.
-//
-//     제한 사항
-// s1 의 길이는 1 이상 1,000 이하이다.
-//     각각의 숫자는 0 이상 230 이하의 정수이며, 각각의 숫자는 고유하다(즉, 중복되는 숫자는 없다).
-// s2 에서 각 숫자</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpbmRleCA9IDE7IGluZGV4IDwgZmlyZWNyYWNrZXIubGVuZ3RoOyBpbmRleCsrKSB7CiAgICBjb25zdCBmID0gZmlyZWNyYWNrZXJbaW5kZXhdOwogICAgaWYgKGYgPT09IDApIHsKICAgICAgY29udGludWU7CiAgICB9CiAgICBjb25zdCBzaXplID0gTWF0aC5taW4oZiwgaW5kZXgpOwogICAgY29uc3QgbmV3QXJyYXkgPSBuZXcgQXJyYXkoc2l6ZSkuZmlsbChmYWxzZSk7CiAgICBhbnN3ZXIgPSBbCiAgICAgIC4uLmFuc3dlci5zbGljZSgwLCBpbmRleCAtIHNpemUpLAogICAgICAuLi5uZXdBcnJheSwKICAgICAgLi4uYW5zd2VyLnNsaWNlKGluZGV4IC0gMSwgYW5zd2VyLmxlbmd0aCAtIDEpLAogICAgXTsKICB9CgogIHJldHVybiBhbnN3ZXIuZmlsdGVyKChhKSA9PiBhKS5sZW5ndGg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
