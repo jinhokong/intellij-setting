@@ -42,8 +42,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1589215352579" />
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216648567">
-        <mark key="[" line="3" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216720353">
+        <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589216502380">
         <mark key="[" line="16" column="26" />
@@ -53,9 +53,6 @@
         <mark key="[" line="6" column="4" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/.gitignore" timestamp="1588756993026">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1588780600504">
         <mark key="[" line="0" column="0" />
@@ -96,7 +93,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1589215228684" />
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216580805">
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216712653">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
