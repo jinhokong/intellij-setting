@@ -41,49 +41,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589255226891">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/recipe/recipe.service.ts" timestamp="1589218553663">
         <mark key="[" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package-lock.json" timestamp="1589255233086">
         <mark key="[" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/.gitignore" timestamp="1589215352579" />
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216720353">
         <mark key="[" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/hi/index.ts" timestamp="1589215781106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589215945595">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589216502380">
         <mark key="[" line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/index.ts" timestamp="1589215140674">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.controller.ts" timestamp="1589266916378" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.service.ts" timestamp="1589266920008" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.repository.ts" timestamp="1589266923325" />
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1589255656225">
         <mark key="[" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/app.service.ts" timestamp="1589218539445">
+        <mark key="[" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/__tests__/index.test.ts" timestamp="1589215076041">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589255226891">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/hi/index.ts" timestamp="1589215781106">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/recipe/recipe.service.spec.ts" timestamp="1589218547769" />
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589215945595">
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/index.ts" timestamp="1589215140674">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.repository.ts" timestamp="1589255458680" />
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/app.service.ts" timestamp="1589218539445">
-        <mark key="[" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/template/index.test.ts" timestamp="1589215228684" />
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216712653">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="13" />
