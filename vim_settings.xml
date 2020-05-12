@@ -41,11 +41,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589255226891">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/recipe/recipe.service.ts" timestamp="1589218553663">
         <mark key="[" line="0" column="12" />
       </file>
@@ -55,38 +50,61 @@
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216720353">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/hi/index.ts" timestamp="1589215781106">
+      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.service.ts" timestamp="1589273127048">
+        <mark key="[" line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem2/index.ts" timestamp="1589271722307">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem2/index.test.ts" timestamp="1589269447303">
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.controller.ts" timestamp="1589266916378" />
+      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.service.ts" timestamp="1589266920008" />
+      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.entity.ts" timestamp="1589273222841">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1589255656225">
+        <mark key="[" line="18" column="25" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1589269477110">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589255226891">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.test.ts" timestamp="1589268532702">
+        <mark key="[" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589267150968">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.json" timestamp="1589216502380">
-        <mark key="[" line="16" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.controller.ts" timestamp="1589272294066">
+        <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/index.ts" timestamp="1589215140674">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.controller.ts" timestamp="1589266916378" />
-      <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/auth.service.ts" timestamp="1589266920008" />
       <file name="$USER_HOME$/Documents/project/udemy-nest-js/src/auth/user.repository.ts" timestamp="1589266923325" />
-      <file name="$USER_HOME$/IdeaProjects/Interview-preparation/General/README.md" timestamp="1589255656225">
-        <mark key="[" line="18" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/app.service.ts" timestamp="1589218539445">
         <mark key="[" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/__tests__/index.test.ts" timestamp="1589215076041">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.ts" timestamp="1589269387256">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/tsconfig.test.json" timestamp="1589216712653">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/helper/index.ts" timestamp="1589272682943">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -114,10 +132,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZTogW10sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>RecipesModule</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -126,31 +144,39 @@
         <text>upper[index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW5jbHVkZTogW10sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVjaXBlc01vZHVsZSB9IGZyb20gIi4vcmVjaXBlcy9yZWNpcGVzLm1vZHVsZSI7Cg==</text>
+      <register name="2" type="4">
+        <text>else{
+      
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcmFtZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiZ2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9Bcml6b25hTWFrY2hhbmcvbXVwLWJhY2tlbmQuZ2l0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0eXBlIjogImdpdCIsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gY29uc3QgbGFzdCA9IGluZGV4ICYmIGZyYW1lW2luZGV4IC0gMV07CiAgICAvLyBsZXQgaXNTdHJpa2UgPSBmYWxzZTsKICAgIC8vIGxldCBpc0NsZWFyID0gZmFsc2U7CiAgICAvLyBpZiAobGFzdCAmJiBsYXN0LnJlZHVjZSgoYSwgYykgPT4gYSArIGMsIDApID09PSAxMCkgewogICAgLy8gICBpZiAobGFzdC5sZW5ndGggPT09IDIpIHsKICAgIC8vICAgICBpc0NsZWFyID0gdHJ1ZTsKICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBpc1N0cmlrZSA9IHRydWU7CiAgICAvLyAgIH0KICAgIC8vIH0KICAgIC8vIGxldCBzY29yZSA9IDA7CiAgICAvLyBpZiAoaXNTdHJpa2UpIHsKICAgIC8vICAgc2NvcmUgKz0gY3VyLnJlZHVjZSgoYSwgYykgPT4gYSArIGMsIDApICogMjsKICAgIC8vIH0gZWxzZSBpZiAoaXNDbGVhcikgewogICAgLy8gICBzY29yZSArPSBjdXJbMF0gKiAyICsgKGN1clsxXSB8fCAwKTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHNjb3JlICs9IGN1ci5yZWR1Y2UoKGEsIGMpID0+IGEgKyBjLCAwKTsKICAgIC8vIH0KICAgIC8vIGNvbnNvbGUubG9nKHNjb3JlKTsKICAgIC8vIHJldHVybiBhY2MgKyBzY29yZTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y3VyLnJlZHVjZSgoaW5uZXJBY2MsIGlubmVyQ3VyKSA9PiB7CiAgICAgIGlmKGlzQ2xlYXIpIHsKICAgICAgICAKICAgICAgfQogICAgICBpZihpc1N0cmlrZSkgewogICAgICAgIAogICAgICB9CiAgICAgIHJldHVybiBpbm5lckFjYyArIGlubmVyQ3VyCiAgICB9CiAgICB9LCAwKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="7" type="4">
+        <text>lastScore = score;
+    if (score === 10) {
+      isClear = true;
+      if (cur.length === 2) {
+        isStrike = true;
+      }
+    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FyaXpvbmFNYWtjaGFuZy9tdXAtYmFja2VuZC9pc3N1ZXMiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKCkgewogICAgICBhY2MucHVzaChbY3VyXSk7CiAgICB9ZWxzZSBpZigpewogICAgICBhY2MucHVzaChbY3VyXSk7IAogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsK</text>
+        <text encoding="base64">ICBkZHJldHVybiAoc29ydFtzb3J0Lmxlbmd0aCAvIDIgLSAxXSArIHNvcnRbc29ydC5sZW5ndGggLyAyXSkgLyAyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
