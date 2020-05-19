@@ -41,9 +41,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589894875166">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package-lock.json" timestamp="1589255233086">
         <mark key="[" line="1" column="21" />
       </file>
