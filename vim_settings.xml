@@ -41,13 +41,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package.json" timestamp="1589255226891">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/recipe/recipe.service.ts" timestamp="1589218553663">
-        <mark key="[" line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1589894875166">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/package-lock.json" timestamp="1589255233086">
         <mark key="[" line="1" column="21" />
@@ -55,14 +50,17 @@
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/SQL/README.md" timestamp="1589812783383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter5/index.ts" timestamp="1589895001333">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/Network/README.md" timestamp="1589811463835">
         <mark key="[" line="105" column="16" />
         <mark key="]" line="105" column="0" />
         <mark key="^" line="105" column="0" />
         <mark key="." line="105" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/.eslintrc.js" timestamp="1589216720353">
-        <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.test.ts" timestamp="1589268532702">
         <mark key="[" line="11" column="5" />
@@ -101,9 +99,6 @@
       <file name="/JavaScript Console" timestamp="1589269477110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/nest-boilerplate/src/app.service.ts" timestamp="1589218539445">
-        <mark key="[" line="5" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.ts" timestamp="1589269387256">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -114,6 +109,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/helper/index.ts" timestamp="1589272682943">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/package.json" timestamp="1589894439623">
+        <mark key="[" line="29" column="27" />
       </file>
     </filemarks>
     <jumps>
