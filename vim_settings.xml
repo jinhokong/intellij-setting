@@ -47,9 +47,9 @@
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/SQL/README.md" timestamp="1589812783383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter5/index.ts" timestamp="1589895001333">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="9" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter5/index.ts" timestamp="1589986702236">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="23" column="45" />
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="47" />
       </file>
@@ -135,8 +135,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
+      <register name="&quot;" type="4">
+        <text>DiscountCondition</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -145,7 +145,7 @@
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>upper[index</text>
+        <text>DiscountCondition</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
