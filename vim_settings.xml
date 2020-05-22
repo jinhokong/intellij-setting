@@ -41,6 +41,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1590150779259">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/src/chapter5/index.ts" timestamp="1589986702236">
         <mark key="[" line="31" column="14" />
         <mark key="]" line="23" column="45" />
@@ -67,16 +70,22 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590150724866">
+      <file name="/JavaScript Console" timestamp="1590150881415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/climbing-the-leaderboard/index.test.ts" timestamp="1590150035731">
+      <file name="/Dummy.txt" timestamp="1590153340315">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/climbing-the-leaderboard/index.test.ts" timestamp="1590151391124">
+        <mark key="[" line="14" column="30" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/climbing-the-leaderboard/index.ts" timestamp="1590150678164">
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/climbing-the-leaderboard/index.ts" timestamp="1590152049175">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Interview-preparation/SQL/README.md" timestamp="1589812783383">
         <mark key="[" line="0" column="0" />
@@ -89,11 +98,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.test.ts" timestamp="1589268532702">
         <mark key="[" line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/package.json" timestamp="1589267150968">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.controller.ts" timestamp="1589272294066">
         <mark key="[" line="7" column="3" />
@@ -137,11 +141,13 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>else{
+        
+      }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[...one];</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -149,34 +155,36 @@
       <register name="0" type="4">
         <text>DiscountCondition</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>else{
+        
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG4gPSA3Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9uZSA9IFsuLi5bLi4ubmV3IFNldChzY29yZXMpXS5lbnRyaWVzKCldOwogICAgY29uc3QgYW5zd2VyID0gb25lLmZpbmQoKFtpbmRleCwgc2NvcmVdKSA9PiBhID49IHNjb3JlKTsKICAgIGlmICghYW5zd2VyKSB7CiAgICAgIHJlc3VsdC5wdXNoKG9uZS5sZW5ndGggKyAxKTsKICAgIH0gZWxzZSB7CiAgICAgIHJlc3VsdC5wdXNoKGFuc3dlclswXSArIDEpOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgYnJvd24gPSA4OwogICAgY29uc3QgcmVkID0gMTsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKGJyb3duLCByZWQpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbMywgM10pOwogIH0pOwogIGl0KCd0ZXN0MycsICgpID0+IHsKICAgIC8vIEdJVkVOCiAgICBjb25zdCBicm93biA9IDI0OwogICAgY29uc3QgcmVkID0gMjQ7CiAgICAvLyBXSEVOCiAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihicm93biwgcmVkKTsKICAgIC8vIFRIRU4KICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzgsIDZdKTsKICB9KTs=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHR3byA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgdG90YWwgPSBicm93biArIHJlZDsKICBsZXQgY2FuID0gW107CiAgZm9yIChsZXQgaSA9IDM7IGkgPCB0b3RhbCAvIDI7IGkrKykgewogICAgaWYgKHRvdGFsICUgaSA9PT0gMCkgewogICAgICBjYW4ucHVzaChbdG90YWwgLyBpLCBpXSk7CiAgICB9CiAgfQogIGZvciAoY29uc3QgW3csIGhdIG9mIGNhbikgewogICAgaWYgKGJyb3duID09PSAyICogdyArIDIgKiBoIC0gNCAmJiByZWQgPT09IHRvdGFsIC0gYnJvd24pIHsKICAgICAgcmV0dXJuIFt3LCBoXTsKICAgIH0KICB9</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG4gPSA3Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgYnJvd24gPSA4OwogICAgY29uc3QgcmVkID0gMTsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKGJyb3duLCByZWQpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbMywgM10pOwogIH0pOwogIGl0KCd0ZXN0MycsICgpID0+IHsKICAgIC8vIEdJVkVOCiAgICBjb25zdCBicm93biA9IDI0OwogICAgY29uc3QgcmVkID0gMjQ7CiAgICAvLyBXSEVOCiAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihicm93biwgcmVkKTsKICAgIC8vIFRIRU4KICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzgsIDZdKTsKICB9KTs=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsZXQgdG90YWwgPSBicm93biArIHJlZDsKICBsZXQgY2FuID0gW107CiAgZm9yIChsZXQgaSA9IDM7IGkgPCB0b3RhbCAvIDI7IGkrKykgewogICAgaWYgKHRvdGFsICUgaSA9PT0gMCkgewogICAgICBjYW4ucHVzaChbdG90YWwgLyBpLCBpXSk7CiAgICB9CiAgfQogIGZvciAoY29uc3QgW3csIGhdIG9mIGNhbikgewogICAgaWYgKGJyb3duID09PSAyICogdyArIDIgKiBoIC0gNCAmJiByZWQgPT09IHRvdGFsIC0gYnJvd24pIHsKICAgICAgcmV0dXJuIFt3LCBoXTsKICAgIH0KICB9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>else{
       
     }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcmFtZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gY29uc3QgbGFzdCA9IGluZGV4ICYmIGZyYW1lW2luZGV4IC0gMV07CiAgICAvLyBsZXQgaXNTdHJpa2UgPSBmYWxzZTsKICAgIC8vIGxldCBpc0NsZWFyID0gZmFsc2U7CiAgICAvLyBpZiAobGFzdCAmJiBsYXN0LnJlZHVjZSgoYSwgYykgPT4gYSArIGMsIDApID09PSAxMCkgewogICAgLy8gICBpZiAobGFzdC5sZW5ndGggPT09IDIpIHsKICAgIC8vICAgICBpc0NsZWFyID0gdHJ1ZTsKICAgIC8vICAgfSBlbHNlIHsKICAgIC8vICAgICBpc1N0cmlrZSA9IHRydWU7CiAgICAvLyAgIH0KICAgIC8vIH0KICAgIC8vIGxldCBzY29yZSA9IDA7CiAgICAvLyBpZiAoaXNTdHJpa2UpIHsKICAgIC8vICAgc2NvcmUgKz0gY3VyLnJlZHVjZSgoYSwgYykgPT4gYSArIGMsIDApICogMjsKICAgIC8vIH0gZWxzZSBpZiAoaXNDbGVhcikgewogICAgLy8gICBzY29yZSArPSBjdXJbMF0gKiAyICsgKGN1clsxXSB8fCAwKTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHNjb3JlICs9IGN1ci5yZWR1Y2UoKGEsIGMpID0+IGEgKyBjLCAwKTsKICAgIC8vIH0KICAgIC8vIGNvbnNvbGUubG9nKHNjb3JlKTsKICAgIC8vIHJldHVybiBhY2MgKyBzY29yZTs=</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
