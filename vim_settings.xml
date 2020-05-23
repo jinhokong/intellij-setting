@@ -50,20 +50,11 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil3/index.ts" timestamp="1590259512962">
+        <mark key="[" line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.service.ts" timestamp="1589273127048">
         <mark key="[" line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem2/index.ts" timestamp="1589271722307">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem2/index.test.ts" timestamp="1589269447303">
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.entity.ts" timestamp="1589273222841">
         <mark key="[" line="9" column="21" />
@@ -72,6 +63,29 @@
       </file>
       <file name="/JavaScript Console" timestamp="1590150881415">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil2/index.test.ts" timestamp="1590254742695">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil2/index.ts" timestamp="1590255952503" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil4/index.test.ts" timestamp="1590258217700">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="9" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil1/index.ts" timestamp="1590254554694">
+        <mark key="[" line="21" column="11" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil4/index.ts" timestamp="1590259243685">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1590153340315">
         <mark key="[" line="0" column="0" />
@@ -96,25 +110,22 @@
         <mark key="^" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.test.ts" timestamp="1589268532702">
-        <mark key="[" line="11" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/coupon.controller.ts" timestamp="1589272294066">
-        <mark key="[" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/typescript-boilerplate/src/problem1/index.ts" timestamp="1589269387256">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil1/index.test.ts" timestamp="1590254291751">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/jinho.dev/src/pages/articles/2020-05-18---Head-First-Go/index.md" timestamp="1590071832890">
         <mark key="[" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/devsisters-test/src/coupon/helper/index.ts" timestamp="1589272682943">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/object-book-with-typescript/package.json" timestamp="1589894439623">
         <mark key="[" line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/programmers-typescript/src/buzbil3/index.test.ts" timestamp="1590256225022">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="22" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -141,13 +152,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>else{
-        
-      }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNvbHV0aW9uID0gKGFycjogbnVtYmVyW10pID0+IHsKfTsK</text>
       </register>
       <register name="-" type="4">
-        <text>[...one];</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -155,36 +164,52 @@
       <register name="0" type="4">
         <text>DiscountCondition</text>
       </register>
-      <register name="1" type="4">
-        <text>else{
-        
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNvbHV0aW9uID0gKGFycjogbnVtYmVyW10pID0+IHsKfTsK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9uZSA9IFsuLi5bLi4ubmV3IFNldChzY29yZXMpXS5lbnRyaWVzKCldOwogICAgY29uc3QgYW5zd2VyID0gb25lLmZpbmQoKFtpbmRleCwgc2NvcmVdKSA9PiBhID49IHNjb3JlKTsKICAgIGlmICghYW5zd2VyKSB7CiAgICAgIHJlc3VsdC5wdXNoKG9uZS5sZW5ndGggKyAxKTsKICAgIH0gZWxzZSB7CiAgICAgIHJlc3VsdC5wdXNoKGFuc3dlclswXSArIDEpOwogICAgfQ==</text>
+        <text encoding="base64">ICByZXR1cm4gNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHR3byA9IAo=</text>
+        <text encoding="base64">ICAgICAgWzUsIDMsIDJdLAogICAgICBbNSwgMywgMV0sCiAgICAgIFs1LCA0LCAyXSwKICAgICAgWzUsIDQsIDFdLAogICAgICBbNSwgMiwgMV0sCiAgICAgIFszLCAyLCAxXSwKICAgICAgWzQsIDIsIDFdLA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZCA9IDI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG4gPSA3Owo=</text>
+        <text encoding="base64">ICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgaW5wdXQgPSAne31bXSgpJzsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKCd7W31dfScpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbCgnTk8nKTsKICB9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgYnJvd24gPSA4OwogICAgY29uc3QgcmVkID0gMTsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKGJyb3duLCByZWQpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbMywgM10pOwogIH0pOwogIGl0KCd0ZXN0MycsICgpID0+IHsKICAgIC8vIEdJVkVOCiAgICBjb25zdCBicm93biA9IDI0OwogICAgY29uc3QgcmVkID0gMjQ7CiAgICAvLyBXSEVOCiAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihicm93biwgcmVkKTsKICAgIC8vIFRIRU4KICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzgsIDZdKTsKICB9KTs=</text>
+        <text encoding="base64">ICBpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgdG90YWwgPSBicm93biArIHJlZDsKICBsZXQgY2FuID0gW107CiAgZm9yIChsZXQgaSA9IDM7IGkgPCB0b3RhbCAvIDI7IGkrKykgewogICAgaWYgKHRvdGFsICUgaSA9PT0gMCkgewogICAgICBjYW4ucHVzaChbdG90YWwgLyBpLCBpXSk7CiAgICB9CiAgfQogIGZvciAoY29uc3QgW3csIGhdIG9mIGNhbikgewogICAgaWYgKGJyb3duID09PSAyICogdyArIDIgKiBoIC0gNCAmJiByZWQgPT09IHRvdGFsIC0gYnJvd24pIHsKICAgICAgcmV0dXJuIFt3LCBoXTsKICAgIH0KICB9</text>
+      <register name="7" type="4">
+        <text encoding="base64">dCgndGVzdDInLCAoKSA9PiB7CiAgICAvLyBHSVZFTgogICAgY29uc3QgYnJvd24gPSA4OwogICAgY29uc3QgcmVkID0gMTsKICAgIC8vIFdIRU4KICAgIGNvbnN0IHJlc3VsdCA9IHNvbHV0aW9uKGJyb3duLCByZWQpOwogICAgLy8gVEhFTgogICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbMywgM10pOwogIH0pOwogIGl0KCd0ZXN0MycsICgpID0+IHsKICAgIC8vIEdJVkVOCiAgICBjb25zdCBicm93biA9IDI0OwogICAgY29uc3QgcmVkID0gMjQ7CiAgICAvLyBXSEVOCiAgICBjb25zdCByZXN1bHQgPSBzb2x1dGlvbihicm93biwgcmVkKTsKICAgIC8vIFRIRU4KICAgIGV4cGVjdChyZXN1bHQpLnRvRXF1YWwoWzgsIDZdKTsKICB9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtwb2ludH0gPSBpbnB1dAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGxldCB0b3RhbCA9IGJyb3duICsgcmVkOwogIGxldCBjYW4gPSBbXTsKICBmb3IgKGxldCBpID0gMzsgaSA8IHRvdGFsIC8gMjsgaSsrKSB7CiAgICBpZiAodG90YWwgJSBpID09PSAwKSB7CiAgICAgIGNhbi5wdXNoKFt0b3RhbCAvIGksIGldKTsKICAgIH0KICB9CiAgZm9yIChjb25zdCBbdywgaF0gb2YgY2FuKSB7CiAgICBpZiAoYnJvd24gPT09IDIgKiB3ICsgMiAqIGggLSA0ICYmIHJlZCA9PT0gdG90YWwgLSBicm93bikgewogICAgICByZXR1cm4gW3csIGhdOwogICAgfQogIH0=</text>
       </register>
       <register name="9" type="4">
         <text>else{
-      
-    }</text>
+        
+      }</text>
       </register>
       <register name=":" type="4">
         <text>%s/class/export class</text>
